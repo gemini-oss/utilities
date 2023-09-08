@@ -1,2 +1,2 @@
-# utilities
-Assortment of small (but useful!) utilities
+# Utilities
+An assortment of small (but useful!) utilities.
